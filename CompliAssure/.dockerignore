@@ -1,0 +1,9 @@
+opa_bundles/
+__pycache__/
+.git/
+.env
+*.log
+uploads/
+logs/
+*.pyc
+.pytest_cache/
